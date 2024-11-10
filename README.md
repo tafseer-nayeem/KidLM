@@ -16,7 +16,7 @@ This is the official repository for our paper, titled ["KidLM: Advancing Languag
 The KidLM corpus consists of high-quality, child-appropriate content specifically written for children and occasionally by them. This content has been meticulously reviewed and validated by website editors or moderators to ensure suitability and to eliminate any inappropriate content or sensationalism. Our user-centric data collection pipeline with quality filtering is comprehensive, diverse, and carefully tailored for developing language models aimed at young audiences. 
 
 
-Our corpus is available here: [KidLM (corpus)](https://huggingface.co/datasets/tafseer-nayeem/KidLM-corpus)
+Our corpus is available here: 🤗 [KidLM (corpus)](https://huggingface.co/datasets/tafseer-nayeem/KidLM-corpus)
 
 
 
