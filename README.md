@@ -1,6 +1,6 @@
 # KidLM
 
-
+This is the official repository for our paper, titled ["KidLM: Advancing Language Models for Children – Early Insights and Future Directions,"](https://aclanthology.org/2024.emnlp-main.277/) published at the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024).
 
 
 
