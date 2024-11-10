@@ -10,8 +10,9 @@ This is the official repository for our paper, titled ["KidLM: Advancing Languag
 </p>
 
 <p align="center">
-  <a href="https://huggingface.co/tafseer-nayeem/KidLM">KidLM Model</a> |
+  <a href="https://huggingface.co/collections/tafseer-nayeem/kidlm-672e5afcdc68cedc1c5df812">KidLM Collection</a> |
   <a href="https://huggingface.co/datasets/tafseer-nayeem/KidLM-corpus">KidLM Corpus</a> |
+  <a href="https://huggingface.co/tafseer-nayeem?search_models=KidLM">KidLM Models</a> |
   <a href="https://aclanthology.org/2024.emnlp-main.277/">EMNLP 2024 Paper</a>
 </p>
 
