@@ -5,7 +5,7 @@ This is the official repository for our paper, titled ["KidLM: Advancing Languag
 
 <p align="center">
   <a href="https://huggingface.co/collections/tafseer-nayeem/kidlm-672e5afcdc68cedc1c5df812">
-    <img src="./img/KidLM.png" alt="KidLM (corpus)" width="350" title="KidLM (corpus)">
+    <img src="./img/KidLM.png" alt="KidLM (corpus)" width="400" title="KidLM (corpus)">
   </a>
 </p>
 
