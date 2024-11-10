@@ -3,8 +3,11 @@
 This is the official repository for our paper, titled ["KidLM: Advancing Language Models for Children – Early Insights and Future Directions,"](https://aclanthology.org/2024.emnlp-main.277/) published at the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024). 
 
 
-<img src="/img/KidLM.png" alt="KidLM (corpus)" width="600" title="KidLM (corpus)">
-
+<p align="center">
+  <a href="https://huggingface.co/collections/tafseer-nayeem/kidlm-672e5afcdc68cedc1c5df812">
+    <img src="./img/KidLM.png" alt="KidLM (corpus)" width="300" title="KidLM (corpus)">
+  </a>
+</p>
 
 
 ## Abstract
