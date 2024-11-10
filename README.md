@@ -40,6 +40,16 @@ The KidLM corpus consists of high-quality, child-appropriate content specificall
 Our corpus is available here: 🤗 [KidLM (corpus)](https://huggingface.co/datasets/tafseer-nayeem/KidLM-corpus)
 
 
+
+## KidLM Models
+
+- [KidLM](https://huggingface.co/tafseer-nayeem/KidLM): We continue pre-train the [RoBERTa (base)](https://huggingface.co/FacebookAI/roberta-base) model on our [KidLM corpus](https://huggingface.co/datasets/tafseer-nayeem/KidLM-corpus) using a masked language modeling (MLM) objective. This approach involves randomly masking 15% of the words in each input sequence, allowing the model to predict the masked words based on their surrounding context. For more details, please refer to our [EMNLP 2024 paper](https://aclanthology.org/2024.emnlp-main.277/).
+
+- [KidLM (plus)](https://huggingface.co/tafseer-nayeem/KidLM-plus): We continue to pre-train the [RoBERTa (base)](https://huggingface.co/FacebookAI/roberta-base) model on our [KidLM corpus](https://huggingface.co/datasets/tafseer-nayeem/KidLM-corpus) using a masked language modeling (MLM) objective. The KidLM (plus) model introduces a masking strategy called **Stratified Masking**, which varies the probability of masking based on word classes. This approach enhances the model's focus on tokens that are more informative and specifically tailored to children's language needs, aiming to steer language model predictions towards child-specific vocabulary derived from our high-quality [KidLM corpus](https://huggingface.co/datasets/tafseer-nayeem/KidLM-corpus).
+
+For more details, please refer to our [EMNLP 2024 paper](https://aclanthology.org/2024.emnlp-main.277/).
+
+
 ## Licensing Information
 
 Contents of this repository are restricted to only non-commercial research purposes under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/). Copyright of the dataset contents belongs to the original copyright holders.
