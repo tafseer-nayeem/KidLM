@@ -32,7 +32,7 @@ The KidLM corpus consists of high-quality, child-appropriate content specificall
 
 <p align="center">
   <a href="https://huggingface.co/datasets/tafseer-nayeem/KidLM-corpus">
-    <img src="./img/data-collection-pipeline.png" alt="User-Centric Data Collection Pipeline" width="500" title="User-Centric Data Collection Pipeline">
+    <img src="./img/data-collection-pipeline.png" alt="User-Centric Data Collection Pipeline" width="600" title="User-Centric Data Collection Pipeline">
   </a>
 </p>
 
